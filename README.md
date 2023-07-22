@@ -1,4 +1,4 @@
-Data Scientist
+**Data Analyst**
 
 Technical Skills: Excel,Python, SQL, AWS, Snowflake, MATLAB, Tableu, Power BI
 
